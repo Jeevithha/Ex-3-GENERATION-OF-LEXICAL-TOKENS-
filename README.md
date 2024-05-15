@@ -1,23 +1,19 @@
 # Ex-3 GENERATION OF LEXICAL TOKENS USING C
-# DATE: 21.02.24
-# NAME: JEEVITHA S
-# REGISTER NUMBER: 212222100016
-# AIM:
+## DATE: 21.02.24
+## NAME: JEEVITHA S
+## REGISTER NUMBER: 212222100016
+## AIM:
 ## To write a C program to implement lexical analyzer to recognize a few patterns.
-# ALGORITHM:
+## ALGORITHM:
 
 1)	Start the program.
 2)	Get the input from the user with the terminating symbol ‘;’.
 3)	Until the symbol is ‘;’, do the following:
-   
     a.	If the next character of the symbol is an operator then print it as an operator.
-  	
     b.	If the next character of the symbol is a variable, then insert it into symbol table and print it as an identifier.
-  	
     c.	If the next character of the symbol is a bracket, then print it as parenthesis.
-  	
-5)	Stop the program.
-# PROGRAM:
+4)	Stop the program.
+## PROGRAM:
 NAME: Bharathi priyan T.
 
 REGISTER NUMBER:212221040028
@@ -172,7 +168,7 @@ int main()
     return 0;
 }
 ```
-# OUTPUT:
+## OUTPUT:
 ![image](https://github.com/Anandanaruvi/Ex-3-GENERATION-OF-LEXICAL-TOKENS-/assets/120443233/e5917817-95a5-4608-a412-68918611dbda)
-# RESULT:
+## RESULT:
 ### The program to implement lexical analyzer is executed and the output is verified.
